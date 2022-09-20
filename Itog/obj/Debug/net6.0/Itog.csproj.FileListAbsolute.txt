@@ -1,0 +1,15 @@
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\bin\Debug\net6.0\Itog.exe
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\bin\Debug\net6.0\Itog.deps.json
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\bin\Debug\net6.0\Itog.runtimeconfig.json
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\bin\Debug\net6.0\Itog.dll
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\bin\Debug\net6.0\Itog.pdb
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\obj\Debug\net6.0\Itog.csproj.AssemblyReference.cache
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\obj\Debug\net6.0\Itog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\obj\Debug\net6.0\Itog.AssemblyInfoInputs.cache
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\obj\Debug\net6.0\Itog.AssemblyInfo.cs
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\obj\Debug\net6.0\Itog.csproj.CoreCompileInputs.cache
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\obj\Debug\net6.0\Itog.dll
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\obj\Debug\net6.0\refint\Itog.dll
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\obj\Debug\net6.0\Itog.pdb
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\obj\Debug\net6.0\Itog.genruntimeconfig.cache
+C:\Users\klind\OneDrive\Рабочий стол\Itog\Itog\obj\Debug\net6.0\ref\Itog.dll
